@@ -1,0 +1,12 @@
+region,location,hostname,ipaddress,type
+TEST_REGION_DEV,SITE1,sample_swtich_cisco4-agg03,192.168.10.10,Core_and_Mgmt
+TEST_REGION_DEV,SITE1,sample_swtich_cisco4-agg04,192.168.10.11,Core_and_Mgmt
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-cor01,192.168.20.10,Core
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-cor02,192.168.20.11,Core
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-str01,192.168.20.12,Str
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-str02,192.168.20.13,Str
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-mgr01,192.168.20.14,Mgmt
+TEST_REGION_DEV,SITE2,sample_swtich_cisco2-mgr02,192.168.20.15,Mgmt
+TEST_REGION_DEV,SITE3,sample_swtich_cisco2-cor03,192.168.30.10,Core
+TEST_REGION_DEV,SITE3,sample_swtich_cisco2-str03,192.168.30.11,Str
+TEST_REGION_DEV,SITE3,sample_swtich_cisco2-mgr03,192.168.30.12,Mgmt

@@ -1,0 +1,28 @@
+[
+    {
+        "fields": {
+            "input": 11459180, 
+            "output": 3650156
+        }, 
+        "measurement": "vr_traffic", 
+        "tags": {
+            "infra_version": 1, 
+            "vr_global_ip": "<VR_GLOBAL_IP_1>", 
+            "zone": ""
+        }, 
+        "time": "2017-10-31T11:00:05Z"
+    }, 
+    {
+        "fields": {
+            "input": 806663, 
+            "output": 666684
+        }, 
+        "measurement": "vr_traffic", 
+        "tags": {
+            "infra_version": 1, 
+            "vr_global_ip": "<VR_GLOBAL_IP_2>", 
+            "zone": ""
+        }, 
+        "time": "2017-10-31T11:05:42Z"
+    }
+]
